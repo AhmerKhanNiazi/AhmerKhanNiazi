@@ -157,7 +157,7 @@ Elite Cloud-Native Architect, Exploit Developer & Reverse Engineer
 
 <div align="center">
   <br>
-  <img src="https://komarev.com/ghpvc/?username=AhmerKhanNiazi&color=00ff41&style=for-the-badge&label=SYSTEM+INTRUSIONS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=AhmerKhanNiazi&color=00ff41&style=for-the-badge&label=SYSTEM+INTRUSIONS" alt="Profile Views" /> 
   <br><br>
   <code>[ ENCRYPTED CONNECTION TERMINATED ]</code>
 </div>
