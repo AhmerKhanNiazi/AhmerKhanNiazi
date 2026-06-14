@@ -12,16 +12,15 @@ def get_latest_cves():
         cves = []
         for item in data:
             try:
-                severity_level = item.get('database_specific', {}).get('severity', '')
-                if severity_level.upper() in ['HIGH', 'CRITICAL']:
-                    cve_id = item.get('aliases', [item['id']])[0]
-                    summary = item.get('details', '')[:80].replace('\n', ' ') + '...'
-                    cves.append({
-                        'id': cve_id,
-                        'summary': summary,
-                        'cvss': severity_level.upper(),
-                        'published': item.get('published', '').split('T')[0]
-                    })
+                severity_level = item.get('database_specific', {}).get('severity', 'UNKNOWN')
+                cve_id = item.get('aliases', [item['id']])[0]
+                summary = item.get('details', '')[:80].replace('\n', ' ') + '...'
+                cves.append({
+                    'id': cve_id,
+                    'summary': summary,
+                    'cvss': severity_level.upper(),
+                    'published': item.get('published', '').split('T')[0]
+                })
                 if len(cves) >= 5:
                     break
             except Exception:
