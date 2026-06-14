@@ -11,17 +11,21 @@ def get_latest_cves():
             
         cves = []
         for item in data:
-            # We want High or Critical CVSS scores
-            cvss = item.get('cvss', 0)
-            if cvss and float(cvss) >= 7.0:
-                cves.append({
-                    'id': item['id'],
-                    'summary': item['summary'][:80] + '...',
-                    'cvss': cvss,
-                    'published': item.get('Published', '').split('T')[0]
-                })
-            if len(cves) >= 5:
-                break
+            try:
+                severity_level = item.get('database_specific', {}).get('severity', '')
+                if severity_level.upper() in ['HIGH', 'CRITICAL']:
+                    cve_id = item.get('aliases', [item['id']])[0]
+                    summary = item.get('details', '')[:80].replace('\n', ' ') + '...'
+                    cves.append({
+                        'id': cve_id,
+                        'summary': summary,
+                        'cvss': severity_level.upper(),
+                        'published': item.get('published', '').split('T')[0]
+                    })
+                if len(cves) >= 5:
+                    break
+            except Exception:
+                continue
         return cves
     except Exception as e:
         print(f"Error fetching CVEs: {e}")
