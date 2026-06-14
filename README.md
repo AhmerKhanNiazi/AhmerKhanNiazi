@@ -6,8 +6,10 @@
 -->
 
 <div align="center">
-  <!-- Dynamic Matrix-Style Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:001100&height=300&section=header&text=Ahmer%20Khan%20Niazi&fontSize=80&fontAlignY=30&animation=fadeIn&fontColor=00FF41&desc=%5BROOT%20ACCESS%20GRANTED%5D%20%7C%20Apex%20Kernel%20Engineer%20%7C%20Cloud%20Architect&descAlignY=55&descAlign=50" alt="Cyberpunk Header" />
+  <!-- Glitch Banner -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=50&duration=4000&pause=500&color=00FF41&background=000000&center=true&vCenter=true&width=1000&height=200&lines=Ahmer+Khan+Niazi;[SYSTEM+COMPROMISED];[ROOT+ACCESS+GRANTED];Apex+Kernel+Engineer" alt="Glitch Banner" />
+  </a>
 </div>
 
 <br>
@@ -92,6 +94,11 @@ Elite Cloud-Native Architect, Exploit Developer & Reverse Engineer
     </td>
   </tr>
 </table>
+<br>
+<!-- THREAT_FEED_START -->
+<!-- The Python script will inject the live threat feed here -->
+<!-- THREAT_FEED_END -->
+<br>
 
 <p align="center"><img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=14&duration=1000&pause=1000&color=00FF41&center=true&vCenter=true&width=900&lines==========================================================================" alt="Divider" /></p>
 
@@ -163,6 +170,17 @@ Elite Cloud-Native Architect, Exploit Developer & Reverse Engineer
 </div>
 
 <br>
+
+<div align="center">
+  <!-- Isometric 3D Git Calendar (Motherboard Style) -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AhmerKhanNiazi/AhmerKhanNiazi/output/github-metrics.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AhmerKhanNiazi/AhmerKhanNiazi/output/github-metrics.svg">
+    <img alt="3D Isometric Git Calendar" src="https://raw.githubusercontent.com/AhmerKhanNiazi/AhmerKhanNiazi/output/github-metrics.svg">
+  </picture>
+</div>
+
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=14&duration=1000&pause=1000&color=00FF41&center=true&vCenter=true&width=900&lines==========================================================================" alt="Divider" /></p>
 
 <div align="center">
   <!-- The Matrix Snake Animation -->
