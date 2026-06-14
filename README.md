@@ -45,7 +45,6 @@ Elite Cloud-Native Architect, Exploit Developer & Reverse Engineer
 <h2 align="center">📡 SECURE COMM LINKS 📡</h2>
 <div align="center">
   <a href="https://youtube.com/@theprotechtutorials"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
-  <a href="https://facebook.com/AhmerKhanNiazi"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
   <a href="https://instagram.com/igahmerkhan"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="mailto:your_email@example.com"><img src="https://img.shields.io/badge/Encrypted_Email-000000?style=for-the-badge&logo=protonmail&logoColor=00ff41" alt="Email" /></a>
 </div>
