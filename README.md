@@ -42,15 +42,6 @@ Elite Cloud-Native Architect, Exploit Developer & Reverse Engineer
 
 <br>
 
-<div align="center">
-  <!-- Secret Hacker Trophies -->
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=AhmerKhanNiazi&theme=matrix&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
-  </a>
-</div>
-
-<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=14&duration=1000&pause=1000&color=00FF41&center=true&vCenter=true&width=900&lines==========================================================================" alt="Divider" /></p>
-
 <h2 align="center">📡 SECURE COMM LINKS 📡</h2>
 <div align="center">
   <a href="https://youtube.com/@theprotechtutorials"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
