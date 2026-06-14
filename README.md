@@ -119,21 +119,21 @@ Elite Cloud-Native Architect, Exploit Developer & Reverse Engineer
   <tr align="top">
     <td align="center">
       <a href="https://github.com/AhmerKhanNiazi/Cloud-NativeApplication-CCP">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AhmerKhanNiazi&repo=Cloud-NativeApplication-CCP&theme=midnight-purple&hide_border=true&bg_color=000000&title_color=00ff41&icon_color=00ff41&text_color=ffffff" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AhmerKhanNiazi&repo=Cloud-NativeApplication-CCP&theme=midnight-purple&hide_border=true&bg_color=000000&title_color=00ff41&icon_color=00ff41&text_color=ffffff&hide_description=true" width="100%" />
       </a>
       <br><br>
       <i>Highly scalable, serverless AWS deployment. Zero-trust IAM, DynamoDB, FastAPI & React.js UI. Pay-per-request architecture.</i>
     </td>
     <td align="center">
       <a href="https://github.com/AhmerKhanNiazi/CCP-OS-THEORY">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AhmerKhanNiazi&repo=CCP-OS-THEORY&theme=midnight-purple&hide_border=true&bg_color=000000&title_color=00ff41&icon_color=00ff41&text_color=ffffff" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AhmerKhanNiazi&repo=CCP-OS-THEORY&theme=midnight-purple&hide_border=true&bg_color=000000&title_color=00ff41&icon_color=00ff41&text_color=ffffff&hide_description=true" width="100%" />
       </a>
       <br><br>
       <i>Advanced OS-level concepts, memory management analysis, thread synchronization, and kernel module structures.</i>
     </td>
     <td align="center">
       <a href="https://github.com/AhmerKhanNiazi/CCP-DAA-Project">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AhmerKhanNiazi&repo=CCP-DAA-Project&theme=midnight-purple&hide_border=true&bg_color=000000&title_color=00ff41&icon_color=00ff41&text_color=ffffff" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AhmerKhanNiazi&repo=CCP-DAA-Project&theme=midnight-purple&hide_border=true&bg_color=000000&title_color=00ff41&icon_color=00ff41&text_color=ffffff&hide_description=true" width="100%" />
       </a>
       <br><br>
       <i>Design & Analysis of Algorithms. Core computational optimization, extreme time-complexity scaling, and data structure manipulation.</i>
