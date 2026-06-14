@@ -40,7 +40,26 @@ Elite Cloud-Native Architect, Exploit Developer & Reverse Engineer
   </p>
 </div>
 
----
+<br>
+
+<div align="center">
+  <!-- Secret Hacker Trophies -->
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=AhmerKhanNiazi&theme=matrix&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+  </a>
+</div>
+
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=14&duration=1000&pause=1000&color=00FF41&center=true&vCenter=true&width=900&lines==========================================================================" alt="Divider" /></p>
+
+<h2 align="center">📡 SECURE COMM LINKS 📡</h2>
+<div align="center">
+  <a href="https://youtube.com/@theprotechtutorials"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="https://facebook.com/AhmerKhanNiazi"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="https://instagram.com/igahmerkhan"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="mailto:your_email@example.com"><img src="https://img.shields.io/badge/Encrypted_Email-000000?style=for-the-badge&logo=protonmail&logoColor=00ff41" alt="Email" /></a>
+</div>
+
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=14&duration=1000&pause=1000&color=00FF41&center=true&vCenter=true&width=900&lines==========================================================================" alt="Divider" /></p>
 
 <h2 align="center">☠️ THE ARSENAL (Core Capabilities) ☠️</h2>
 <p align="center"><i>I don't just write code; I deconstruct it, break its limitations, and rewrite the rules of the OS kernel.</i></p>
@@ -84,7 +103,7 @@ Elite Cloud-Native Architect, Exploit Developer & Reverse Engineer
   </tr>
 </table>
 
----
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=14&duration=1000&pause=1000&color=00FF41&center=true&vCenter=true&width=900&lines==========================================================================" alt="Divider" /></p>
 
 <h2 align="center">⚠️ CLASSIFIED OPERATIONS DIRECTORY (Projects) ⚠️</h2>
 
@@ -119,7 +138,7 @@ Elite Cloud-Native Architect, Exploit Developer & Reverse Engineer
   </tr>
 </table>
 
----
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=14&duration=1000&pause=1000&color=00FF41&center=true&vCenter=true&width=900&lines==========================================================================" alt="Divider" /></p>
 
 <h2 align="center">⚔️ TECH STACK & WEAPONS ⚔️</h2>
 
@@ -138,7 +157,7 @@ Elite Cloud-Native Architect, Exploit Developer & Reverse Engineer
   <img src="https://img.shields.io/badge/FPGA-PCILeech-000000?style=for-the-badge&logo=raspberrypi&logoColor=00ff41" />
 </p>
 
----
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=14&duration=1000&pause=1000&color=00FF41&center=true&vCenter=true&width=900&lines==========================================================================" alt="Divider" /></p>
 
 <h2 align="center">📊 TELEMETRY & SYSTEM ANALYTICS 📊</h2>
 
@@ -153,7 +172,18 @@ Elite Cloud-Native Architect, Exploit Developer & Reverse Engineer
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmerKhanNiazi&layout=compact&theme=midnight-purple&hide_border=true&bg_color=000000&title_color=00ff41&text_color=ffffff&langs_count=8" alt="Top Languages" width="48%" />
 </div>
 
----
+<br>
+
+<div align="center">
+  <!-- The Matrix Snake Animation -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AhmerKhanNiazi/AhmerKhanNiazi/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AhmerKhanNiazi/AhmerKhanNiazi/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AhmerKhanNiazi/AhmerKhanNiazi/output/github-contribution-grid-snake-dark.svg">
+  </picture>
+</div>
+
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=14&duration=1000&pause=1000&color=00FF41&center=true&vCenter=true&width=900&lines==========================================================================" alt="Divider" /></p>
 
 <div align="center">
   <br>
