@@ -96,7 +96,13 @@ Elite Cloud-Native Architect, Exploit Developer & Reverse Engineer
 </table>
 <br>
 <!-- THREAT_FEED_START -->
-<!-- The Python script will inject the live threat feed here -->
+### 🔴 LIVE THREAT INTEL FEED (High/Critical)
+
+| CVE ID | CVSS Score | Date | Summary |
+|---|---|---|---|
+| **CVE-2026-9641** | 🔥 MODERATE | 2026-06-12 | Crypt::PBKDF2 versions before 0.261630 for Perl have a weak default algorithm an... |
+| **CVE-2026-9641** | 🔥 UNKNOWN | 2026-06-12 | ... |
+
 <!-- THREAT_FEED_END -->
 <br>
 
