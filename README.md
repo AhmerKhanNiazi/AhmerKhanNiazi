@@ -100,8 +100,11 @@ Elite Cloud-Native Architect, Exploit Developer & Reverse Engineer
 
 | CVE ID | CVSS Score | Date | Summary |
 |---|---|---|---|
-| **CVE-2026-9641** | 🔥 MODERATE | 2026-06-12 | Crypt::PBKDF2 versions before 0.261630 for Perl have a weak default algorithm an... |
-| **CVE-2026-9641** | 🔥 UNKNOWN | 2026-06-12 | ... |
+| **CVE-2026-12202** | 🔥 LOW | 2026-06-15 | A vulnerability has been found in Intelliants Subrion CMS up to 4.0.3. Affected ... |
+| **CVE-2026-12210** | 🔥 LOW | 2026-06-15 | A vulnerability was detected in universal-tool-calling-protocol python-utcp 1.1.... |
+| **CVE-2026-12204** | 🔥 MODERATE | 2026-06-15 | A vulnerability was determined in ShopXO up to 6.7.1. This vulnerability affects... |
+| **CVE-2026-12207** | 🔥 LOW | 2026-06-15 | A security flaw has been discovered in medkey-org medkey up to fc09b7ba9441ff590... |
+| **CVE-2026-12201** | 🔥 LOW | 2026-06-15 | A flaw has been found in IObit Malware Fighter up to 13.2.0. Affected by this vu... |
 
 <!-- THREAT_FEED_END -->
 <br>
