@@ -100,11 +100,9 @@ Elite Cloud-Native Architect, Exploit Developer & Reverse Engineer
 
 | CVE ID | CVSS Score | Date | Summary |
 |---|---|---|---|
-| **CVE-2026-12202** | 🔥 LOW | 2026-06-15 | A vulnerability has been found in Intelliants Subrion CMS up to 4.0.3. Affected ... |
-| **CVE-2026-12210** | 🔥 LOW | 2026-06-15 | A vulnerability was detected in universal-tool-calling-protocol python-utcp 1.1.... |
-| **CVE-2026-12204** | 🔥 MODERATE | 2026-06-15 | A vulnerability was determined in ShopXO up to 6.7.1. This vulnerability affects... |
-| **CVE-2026-12207** | 🔥 LOW | 2026-06-15 | A security flaw has been discovered in medkey-org medkey up to fc09b7ba9441ff590... |
-| **CVE-2026-12201** | 🔥 LOW | 2026-06-15 | A flaw has been found in IObit Malware Fighter up to 13.2.0. Affected by this vu... |
+| **CVE-2026-12771** | 🔥 LOW | 2026-06-21 | A vulnerability was identified in BerriAI litellm up to 1.82.2. This affects an ... |
+| **CVE-2026-12772** | 🔥 LOW | 2026-06-21 | A security flaw has been discovered in BerriAI litellm up to 1.82.2. This impact... |
+| **CVE-2026-12770** | 🔥 LOW | 2026-06-21 | A vulnerability was determined in BerriAI litellm up to 1.63.1. The impacted ele... |
 
 <!-- THREAT_FEED_END -->
 <br>
