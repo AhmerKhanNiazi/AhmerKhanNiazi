@@ -100,9 +100,11 @@ Elite Cloud-Native Architect, Exploit Developer & Reverse Engineer
 
 | CVE ID | CVSS Score | Date | Summary |
 |---|---|---|---|
-| **CVE-2026-12771** | 🔥 LOW | 2026-06-21 | A vulnerability was identified in BerriAI litellm up to 1.82.2. This affects an ... |
-| **CVE-2026-12772** | 🔥 LOW | 2026-06-21 | A security flaw has been discovered in BerriAI litellm up to 1.82.2. This impact... |
-| **CVE-2026-12770** | 🔥 LOW | 2026-06-21 | A vulnerability was determined in BerriAI litellm up to 1.63.1. The impacted ele... |
+| **CVE-2026-8592** | 🔥 HIGH | 2026-06-25 | OS Command Injection vulnerability in the process_string action of Rapid7 Insigh... |
+| **CVE-2026-8662** | 🔥 LOW | 2026-06-25 | Path Traversal vulnerability in the create_archive function of Rapid7 InsightCon... |
+| **CVE-2026-9155** | 🔥 HIGH | 2026-06-25 | OS Command Injection vulnerability in Rapid7 InsightConnect Sed Plugin on Linux ... |
+| **CVE-2026-8664** | 🔥 MODERATE | 2026-06-25 | OS Command Injection vulnerability in Rapid7 InsightConnect Finger Plugin on Lin... |
+| **CVE-2026-8658** | 🔥 MODERATE | 2026-06-25 | OS Command Injection vulnerability in Rapid7 InsightConnect Tcpdump Plugin on Li... |
 
 <!-- THREAT_FEED_END -->
 <br>
