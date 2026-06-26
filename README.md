@@ -100,11 +100,11 @@ Elite Cloud-Native Architect, Exploit Developer & Reverse Engineer
 
 | CVE ID | CVSS Score | Date | Summary |
 |---|---|---|---|
-| **CVE-2026-8592** | 🔥 HIGH | 2026-06-25 | OS Command Injection vulnerability in the process_string action of Rapid7 Insigh... |
-| **CVE-2026-8662** | 🔥 LOW | 2026-06-25 | Path Traversal vulnerability in the create_archive function of Rapid7 InsightCon... |
-| **CVE-2026-9155** | 🔥 HIGH | 2026-06-25 | OS Command Injection vulnerability in Rapid7 InsightConnect Sed Plugin on Linux ... |
-| **CVE-2026-8664** | 🔥 MODERATE | 2026-06-25 | OS Command Injection vulnerability in Rapid7 InsightConnect Finger Plugin on Lin... |
-| **CVE-2026-8658** | 🔥 MODERATE | 2026-06-25 | OS Command Injection vulnerability in Rapid7 InsightConnect Tcpdump Plugin on Li... |
+| **CVE-2026-50740** | 🔥 MODERATE | 2026-06-26 | A missing sanitisation vulnerability of user input in the zone-include.php scrip... |
+| **CVE-2026-50739** | 🔥 MODERATE | 2026-06-26 | A bypass for CVE‑2026‑34913 exists with proper ownership validation that had not... |
+| **CVE-2026-50742** | 🔥 MODERATE | 2026-06-26 | A stored XSS vulnerabilities exists in the `maintenance-acl-check.php` and `main... |
+| **CVE-2026-50744** | 🔥 MODERATE | 2026-06-26 | A bypass to the admin‑only restriction of the XML‑RPC API in Revive Adserver 6.0... |
+| **CVE-2026-48934** | 🔥 MODERATE | 2026-06-26 | A flaw in Node.js TLS host verification can cause an attacker to bypass certific... |
 
 <!-- THREAT_FEED_END -->
 <br>
