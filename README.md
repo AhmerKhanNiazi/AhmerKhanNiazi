@@ -100,7 +100,11 @@ Elite Cloud-Native Architect, Exploit Developer & Reverse Engineer
 
 | CVE ID | CVSS Score | Date | Summary |
 |---|---|---|---|
-| **MAL-2026-6544** | 🔥 UNKNOWN | 2026-06-27 |  --- _-= Per source details. Do not edit below this line.=-_  ## Source: amazon-... |
+| **CVE-2026-12114** | 🔥 MODERATE | 2026-06-30 | The Team Members – Multi Language Supported Team Plugin plugin for WordPress is ... |
+| **CVE-2026-14160** | 🔥 MODERATE | 2026-06-30 | Time-of-check time-of-use (TOCTOU) race condition vulnerability in Samsung Open ... |
+| **CVE-2026-58302** | 🔥 HIGH | 2026-06-30 | rtapi_app in linuxcnc-uspace in LinuxCNC before 2.9.9 allows privilege escalatio... |
+| **CVE-2026-9099** | 🔥 HIGH | 2026-06-25 | A flaw was found in Keycloak. A missing authorization check in the GroupResource... |
+| **CVE-2026-53322** | 🔥 HIGH | 2026-06-26 | In the Linux kernel, the following vulnerability has been resolved:  vfio/pci: C... |
 
 <!-- THREAT_FEED_END -->
 <br>
