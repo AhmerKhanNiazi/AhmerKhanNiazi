@@ -100,11 +100,11 @@ Elite Cloud-Native Architect, Exploit Developer & Reverse Engineer
 
 | CVE ID | CVSS Score | Date | Summary |
 |---|---|---|---|
-| **CVE-2026-12114** | 🔥 MODERATE | 2026-06-30 | The Team Members – Multi Language Supported Team Plugin plugin for WordPress is ... |
-| **CVE-2026-14160** | 🔥 MODERATE | 2026-06-30 | Time-of-check time-of-use (TOCTOU) race condition vulnerability in Samsung Open ... |
-| **CVE-2026-58302** | 🔥 HIGH | 2026-06-30 | rtapi_app in linuxcnc-uspace in LinuxCNC before 2.9.9 allows privilege escalatio... |
-| **CVE-2026-9099** | 🔥 HIGH | 2026-06-25 | A flaw was found in Keycloak. A missing authorization check in the GroupResource... |
-| **CVE-2026-53322** | 🔥 HIGH | 2026-06-26 | In the Linux kernel, the following vulnerability has been resolved:  vfio/pci: C... |
+| **CVE-2026-14432** | 🔥 HIGH | 2026-07-02 | Use after free in V8 in Google Chrome prior to 150.0.7871.46 allowed a remote at... |
+| **CVE-2026-14431** | 🔥 HIGH | 2026-07-02 | Type Confusion in V8 in Google Chrome prior to 150.0.7871.46 allowed a remote at... |
+| **CVE-2026-14430** | 🔥 HIGH | 2026-07-02 | Integer overflow in V8 in Google Chrome prior to 150.0.7871.46 allowed a remote ... |
+| **CVE-2026-13980** | 🔥 MODERATE | 2026-07-01 | Inappropriate implementation in Chrome for iOS in Google Chrome on iOS prior to ... |
+| **CVE-2026-14408** | 🔥 MODERATE | 2026-07-02 | Uninitialized Use in Dawn in Google Chrome prior to 150.0.7871.46 allowed a remo... |
 
 <!-- THREAT_FEED_END -->
 <br>
