@@ -100,11 +100,11 @@ Elite Cloud-Native Architect, Exploit Developer & Reverse Engineer
 
 | CVE ID | CVSS Score | Date | Summary |
 |---|---|---|---|
-| **CVE-2026-14432** | 🔥 HIGH | 2026-07-02 | Use after free in V8 in Google Chrome prior to 150.0.7871.46 allowed a remote at... |
-| **CVE-2026-14431** | 🔥 HIGH | 2026-07-02 | Type Confusion in V8 in Google Chrome prior to 150.0.7871.46 allowed a remote at... |
-| **CVE-2026-14430** | 🔥 HIGH | 2026-07-02 | Integer overflow in V8 in Google Chrome prior to 150.0.7871.46 allowed a remote ... |
-| **CVE-2026-13980** | 🔥 MODERATE | 2026-07-01 | Inappropriate implementation in Chrome for iOS in Google Chrome on iOS prior to ... |
-| **CVE-2026-14408** | 🔥 MODERATE | 2026-07-02 | Uninitialized Use in Dawn in Google Chrome prior to 150.0.7871.46 allowed a remo... |
+| **CVE-2026-46242** | 🔥 UNKNOWN | 2026-05-30 | ... |
+| **CVE-2026-15138** | 🔥 UNKNOWN | 2026-07-09 | ... |
+| **CVE-2024-41624** | 🔥 UNKNOWN | 2024-07-29 | ... |
+| **CVE-2024-40495** | 🔥 UNKNOWN | 2024-07-24 | ... |
+| **CVE-2024-39171** | 🔥 UNKNOWN | 2024-07-09 | ... |
 
 <!-- THREAT_FEED_END -->
 <br>
