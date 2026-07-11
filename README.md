@@ -102,9 +102,9 @@ Elite Cloud-Native Architect, Exploit Developer & Reverse Engineer
 |---|---|---|---|
 | **CVE-2025-1889** | 🔥 UNKNOWN | 2025-03-03 | picklescan before 0.0.22 only considers standard pickle file extensions in the s... |
 | **CVE-2024-8309** | 🔥 UNKNOWN | 2024-11-05 | A vulnerability in the GraphCypherQAChain class of langchain-ai/langchain-commun... |
-| **CVE-2010-3198** | 🔥 UNKNOWN | 2010-09-08 | Withdrawn as duplicate of PYSEC-2010-32 ZServer in Zope 2.10.x before 2.10.12 an... |
-| **CVE-2010-3198** | 🔥 UNKNOWN | 2010-09-08 | ZServer in Zope 2.10.x before 2.10.12 and 2.11.x before 2.11.7 allows remote att... |
-| **CVE-2026-44241** | 🔥 UNKNOWN | 2026-05-12 | ... |
+| **GHSA-8qpp-8j53-4wh7** | 🔥 UNKNOWN | 2026-07-10 |  --- _-= Per source details. Do not edit below this line.=-_  ## Source: amazon-... |
+| **CVE-2026-20744** | 🔥 CRITICAL | 2026-07-11 | The charging station websocket endpoint accepts connections without  proper auth... |
+| **CVE-2026-42952** | 🔥 HIGH | 2026-07-11 | Previously, there was no throttling on repeated authentication attempts  to the ... |
 
 <!-- THREAT_FEED_END -->
 <br>
