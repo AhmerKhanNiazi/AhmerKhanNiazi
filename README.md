@@ -102,9 +102,6 @@ Elite Cloud-Native Architect, Exploit Developer & Reverse Engineer
 |---|---|---|---|
 | **CVE-2025-1889** | 🔥 UNKNOWN | 2025-03-03 | picklescan before 0.0.22 only considers standard pickle file extensions in the s... |
 | **CVE-2024-8309** | 🔥 UNKNOWN | 2024-11-05 | A vulnerability in the GraphCypherQAChain class of langchain-ai/langchain-commun... |
-| **CVE-2026-9044** | 🔥 HIGH | 2026-08-01 | An OS command injection vulnerability exists in the VPN module of TP-Link AXE75 ... |
-| **CVE-2026-17768** | 🔥 CRITICAL | 2026-07-30 | Insufficient validation of untrusted input in WebSockets in Google Chrome prior ... |
-| **CVE-2026-34641** | 🔥 HIGH | 2026-08-01 | Premiere Pro is affected by an out-of-bounds write vulnerability that could resu... |
 
 <!-- THREAT_FEED_END -->
 <br>
