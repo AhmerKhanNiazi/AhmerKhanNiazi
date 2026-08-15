@@ -102,9 +102,6 @@ Elite Cloud-Native Architect, Exploit Developer & Reverse Engineer
 |---|---|---|---|
 | **CVE-2025-1889** | 🔥 UNKNOWN | 2025-03-03 | picklescan before 0.0.22 only considers standard pickle file extensions in the s... |
 | **CVE-2024-8309** | 🔥 UNKNOWN | 2024-11-05 | A vulnerability in the GraphCypherQAChain class of langchain-ai/langchain-commun... |
-| **CVE-2026-19756** | 🔥 LOW | 2026-08-14 | A vulnerability has been found in Dromara lamp-cloud up to 5.10.0. This affects ... |
-| **CVE-2026-73479** | 🔥 MODERATE | 2026-08-14 | dua-cli fails to filter terminal escape sequences when printing marked file path... |
-| **CVE-2026-19753** | 🔥 MODERATE | 2026-08-14 | A vulnerability was detected in Model Context Protocol mcp-rdf-explorer 1.0.0. A... |
 
 <!-- THREAT_FEED_END -->
 <br>
