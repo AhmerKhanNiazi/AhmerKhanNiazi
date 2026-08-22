@@ -102,9 +102,9 @@ Elite Cloud-Native Architect, Exploit Developer & Reverse Engineer
 |---|---|---|---|
 | **CVE-2025-1889** | 🔥 UNKNOWN | 2025-03-03 | picklescan before 0.0.22 only considers standard pickle file extensions in the s... |
 | **CVE-2024-8309** | 🔥 UNKNOWN | 2024-11-05 | A vulnerability in the GraphCypherQAChain class of langchain-ai/langchain-commun... |
-| **CVE-2026-77647** | 🔥 CRITICAL | 2026-08-21 | SPIP before 4.4.20 allows unauthenticated remote attackers to execute arbitrary ... |
-| **CVE-2026-77645** | 🔥 CRITICAL | 2026-08-21 | A critical remote code execution (RCE) vulnerability has been reported in PTC Wi... |
-| **CVE-2026-77113** | 🔥 MODERATE | 2026-08-21 | Path traversal in apport-unpack in Canonical Apport before 2.36.0, 2.34.2, and 2... |
+| **RLSA-2026:57597** | 🔥 UNKNOWN | 2026-08-21 | The kbd packages provide tools for managing console behavior on a Linux system, ... |
+| **RLSA-2026:54481** | 🔥 UNKNOWN | 2026-08-13 | Python is an interpreted, interactive, object-oriented programming language, whi... |
+| **RLSA-2026:54210** | 🔥 UNKNOWN | 2026-08-13 | The dhcpcd package provides a minimalistic network configuration daemon that sup... |
 
 <!-- THREAT_FEED_END -->
 <br>
