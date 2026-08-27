@@ -102,8 +102,6 @@ Elite Cloud-Native Architect, Exploit Developer & Reverse Engineer
 |---|---|---|---|
 | **CVE-2025-1889** | 🔥 UNKNOWN | 2025-03-03 | picklescan before 0.0.22 only considers standard pickle file extensions in the s... |
 | **CVE-2024-8309** | 🔥 UNKNOWN | 2024-11-05 | A vulnerability in the GraphCypherQAChain class of langchain-ai/langchain-commun... |
-| **CVE-2026-79911** | 🔥 CRITICAL | 2026-08-26 | A security vulnerability has been detected in TOTOLINK N600R 4.3.0cu.7647_B20210... |
-| **CVE-2026-80138** | 🔥 CRITICAL | 2026-08-26 | ClipBucket V5's web installer fails to properly validate or escape the php_cli_f... |
 
 <!-- THREAT_FEED_END -->
 <br>
