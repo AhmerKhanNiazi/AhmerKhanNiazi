@@ -102,9 +102,6 @@ Elite Cloud-Native Architect, Exploit Developer & Reverse Engineer
 |---|---|---|---|
 | **CVE-2025-1889** | 🔥 UNKNOWN | 2025-03-03 | picklescan before 0.0.22 only considers standard pickle file extensions in the s... |
 | **CVE-2024-8309** | 🔥 UNKNOWN | 2024-11-05 | A vulnerability in the GraphCypherQAChain class of langchain-ai/langchain-commun... |
-| **CVE-2026-81346** | 🔥 MODERATE | 2026-08-29 | The Frontend Admin by DynamiApps WordPress plugin before 3.29.11 does not perfor... |
-| **CVE-2026-81200** | 🔥 LOW | 2026-08-29 | The MasterStudy LMS WordPress Plugin  WordPress plugin before 3.7.42 does not co... |
-| **CVE-2026-76547** | 🔥 MODERATE | 2026-08-29 | The User Profile Builder  WordPress plugin before 4.0.1 does not validate the ty... |
 
 <!-- THREAT_FEED_END -->
 <br>
