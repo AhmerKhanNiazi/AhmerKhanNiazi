@@ -102,6 +102,9 @@ Elite Cloud-Native Architect, Exploit Developer & Reverse Engineer
 |---|---|---|---|
 | **CVE-2025-1889** | 🔥 UNKNOWN | 2025-03-03 | picklescan before 0.0.22 only considers standard pickle file extensions in the s... |
 | **CVE-2024-8309** | 🔥 UNKNOWN | 2024-11-05 | A vulnerability in the GraphCypherQAChain class of langchain-ai/langchain-commun... |
+| **CVE-2026-89151** | 🔥 LOW | 2026-09-11 | Forgejo before 16.0.4 allows use of restricted API tokens for unintended access ... |
+| **CVE-2026-78135** | 🔥 MODERATE | 2026-09-11 | libcharon in strongSwan 5.9.7 through 6.0.7 mishandles behavioral workflow in th... |
+| **CVE-2026-88260** | 🔥 HIGH | 2026-09-11 | Authentication bypass using an alternate path or channel and Improper validation... |
 
 <!-- THREAT_FEED_END -->
 <br>
