@@ -102,6 +102,9 @@ Elite Cloud-Native Architect, Exploit Developer & Reverse Engineer
 |---|---|---|---|
 | **CVE-2025-1889** | 🔥 UNKNOWN | 2025-03-03 | picklescan before 0.0.22 only considers standard pickle file extensions in the s... |
 | **CVE-2024-8309** | 🔥 UNKNOWN | 2024-11-05 | A vulnerability in the GraphCypherQAChain class of langchain-ai/langchain-commun... |
+| **CVE-2026-97646** | 🔥 MODERATE | 2026-09-25 | A weakness has been identified in ningzichun student-management-system up to 987... |
+| **CVE-2026-97723** | 🔥 MODERATE | 2026-09-25 | madpsy ka9q_ubersdr before 0.1.58 has a stored cross-site scripting (XSS) vulner... |
+| **CVE-2026-97731** | 🔥 HIGH | 2026-09-25 | MinIO through 7aac2a2 does not verify that every x-amz-* header present on a req... |
 
 <!-- THREAT_FEED_END -->
 <br>
