@@ -102,9 +102,9 @@ Elite Cloud-Native Architect, Exploit Developer & Reverse Engineer
 |---|---|---|---|
 | **CVE-2025-1889** | 🔥 UNKNOWN | 2025-03-03 | picklescan before 0.0.22 only considers standard pickle file extensions in the s... |
 | **CVE-2024-8309** | 🔥 UNKNOWN | 2024-11-05 | A vulnerability in the GraphCypherQAChain class of langchain-ai/langchain-commun... |
-| **CVE-2026-104120** | 🔥 MODERATE | 2026-10-02 | A security vulnerability has been detected in modelcontextprotocol mcp-server-fe... |
-| **CVE-2026-104052** | 🔥 LOW | 2026-10-02 | A vulnerability was determined in itsourcecode Pet Shop Management System 1.0. T... |
-| **CVE-2026-103098** | 🔥 HIGH | 2026-10-02 | Transmission of a sensitive key in the URL over an unencrypted HTTP connection. ... |
+| **CVE-2026-94539** | 🔥 MODERATE | 2026-10-03 | The SupportCandy – AI Customer Support Ticket System & Live Chatbot Agent plugin... |
+| **CVE-2026-93428** | 🔥 HIGH | 2026-10-03 | The Ultimate Member – User Profile, Registration, Login, Member Directory, Conte... |
+| **CVE-2026-92243** | 🔥 MODERATE | 2026-10-03 | The Ivory Search – WordPress Search Plugin plugin for WordPress is vulnerable to... |
 
 <!-- THREAT_FEED_END -->
 <br>
