@@ -102,9 +102,6 @@ Elite Cloud-Native Architect, Exploit Developer & Reverse Engineer
 |---|---|---|---|
 | **CVE-2025-1889** | 🔥 UNKNOWN | 2025-03-03 | picklescan before 0.0.22 only considers standard pickle file extensions in the s... |
 | **CVE-2024-8309** | 🔥 UNKNOWN | 2024-11-05 | A vulnerability in the GraphCypherQAChain class of langchain-ai/langchain-commun... |
-| **MAL-2026-17700** | 🔥 UNKNOWN | 2026-10-08 | dransay@99.0.0 is a dependency-confusion probe for an internal unscoped `dransay... |
-| **MAL-2026-17699** | 🔥 UNKNOWN | 2026-10-08 | @dransay/secrets@99.0.0 is a dependency-confusion probe claiming the internal `@... |
-| **MAL-2026-17698** | 🔥 UNKNOWN | 2026-10-08 | @dransay/phone-fix-test@99.0.0 is a dependency-confusion probe claiming the inte... |
 
 <!-- THREAT_FEED_END -->
 <br>
