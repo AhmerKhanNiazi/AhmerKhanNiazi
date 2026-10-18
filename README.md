@@ -102,9 +102,9 @@ Elite Cloud-Native Architect, Exploit Developer & Reverse Engineer
 |---|---|---|---|
 | **CVE-2025-1889** | 🔥 UNKNOWN | 2025-03-03 | picklescan before 0.0.22 only considers standard pickle file extensions in the s... |
 | **CVE-2024-8309** | 🔥 UNKNOWN | 2024-11-05 | A vulnerability in the GraphCypherQAChain class of langchain-ai/langchain-commun... |
-| **CVE-2026-109208** | 🔥 HIGH | 2026-10-17 | The LearnPress – WordPress LMS Plugin for Create and Sell Online Courses plugin ... |
-| **CVE-2026-111602** | 🔥 LOW | 2026-10-17 | The Appointment Booking Plugin – LatePoint | Calendar & Scheduling for WordPress... |
-| **CVE-2026-110653** | 🔥 CRITICAL | 2026-10-17 | The Appointment Booking Plugin – LatePoint | Calendar & Scheduling for WordPress... |
+| **CVE-2026-111869** | 🔥 MODERATE | 2026-10-18 | A vulnerability was identified in makeplane plane up to 1.4.2. Impacted is an un... |
+| **CVE-2026-111997** | 🔥 MODERATE | 2026-10-18 | ip-address before 10.7.4 allows a denial of service (CPU consumption from quadra... |
+| **CVE-2026-16337** | 🔥 CRITICAL | 2026-07-20 | Improper authorization in the ToolGroupResource and RoleAjax REST/DWR endpoints ... |
 
 <!-- THREAT_FEED_END -->
 <br>
