@@ -102,9 +102,6 @@ Elite Cloud-Native Architect, Exploit Developer & Reverse Engineer
 |---|---|---|---|
 | **CVE-2025-1889** | 🔥 UNKNOWN | 2025-03-03 | picklescan before 0.0.22 only considers standard pickle file extensions in the s... |
 | **CVE-2024-8309** | 🔥 UNKNOWN | 2024-11-05 | A vulnerability in the GraphCypherQAChain class of langchain-ai/langchain-commun... |
-| **MAL-2026-17929** | 🔥 UNKNOWN | 2026-10-19 |  --- _-= Per source details. Do not edit below this line.=-_  ## Source: ossf-pa... |
-| **MAL-2026-17928** | 🔥 UNKNOWN | 2026-10-19 |  --- _-= Per source details. Do not edit below this line.=-_  ## Source: ossf-pa... |
-| **MAL-2026-16355** | 🔥 UNKNOWN | 2026-09-21 |  --- _-= Per source details. Do not edit below this line.=-_  ## Source: amazon-... |
 
 <!-- THREAT_FEED_END -->
 <br>
