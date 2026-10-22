@@ -102,6 +102,9 @@ Elite Cloud-Native Architect, Exploit Developer & Reverse Engineer
 |---|---|---|---|
 | **CVE-2025-1889** | 🔥 UNKNOWN | 2025-03-03 | picklescan before 0.0.22 only considers standard pickle file extensions in the s... |
 | **CVE-2024-8309** | 🔥 UNKNOWN | 2024-11-05 | A vulnerability in the GraphCypherQAChain class of langchain-ai/langchain-commun... |
+| **GHSA-66rv-6q99-h89g** | 🔥 UNKNOWN | 2026-10-20 | unicode-title-normalizer@1.0.0 was published to npm on 2026-10-19 at 14:50:39 UT... |
+| **CVE-2026-114732** | 🔥 MODERATE | 2026-10-22 | Roundcube Webmail before 1.6.20 and 1.7.x before 1.7.5 is affected by an imprope... |
+| **CVE-2026-110354** | 🔥 HIGH | 2026-10-22 | HAProxy 3 before 3.4.6 allows a remote unauthenticated attacker to cause a denia... |
 
 <!-- THREAT_FEED_END -->
 <br>
