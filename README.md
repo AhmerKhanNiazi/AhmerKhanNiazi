@@ -102,6 +102,9 @@ Elite Cloud-Native Architect, Exploit Developer & Reverse Engineer
 |---|---|---|---|
 | **CVE-2025-1889** | 🔥 UNKNOWN | 2025-03-03 | picklescan before 0.0.22 only considers standard pickle file extensions in the s... |
 | **CVE-2024-8309** | 🔥 UNKNOWN | 2024-11-05 | A vulnerability in the GraphCypherQAChain class of langchain-ai/langchain-commun... |
+| **MAL-2026-18321** | 🔥 UNKNOWN | 2026-10-26 | dsh-plugin-blender-3d@0.2.1 is a new release of a DeepSeek Harness plugin for Bl... |
+| **MAL-2026-18320** | 🔥 UNKNOWN | 2026-10-26 | @walknpm/todo-cli@2.0.1 is a new release of a todo-list CLI and web app whose on... |
+| **MAL-2026-18301** | 🔥 UNKNOWN | 2026-10-26 | dictmerge-lite 1.0.0, uploaded to PyPI on 2026-10-25 at 23:52 UTC, poses as a sm... |
 
 <!-- THREAT_FEED_END -->
 <br>
