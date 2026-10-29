@@ -102,9 +102,6 @@ Elite Cloud-Native Architect, Exploit Developer & Reverse Engineer
 |---|---|---|---|
 | **CVE-2025-1889** | 🔥 UNKNOWN | 2025-03-03 | picklescan before 0.0.22 only considers standard pickle file extensions in the s... |
 | **CVE-2024-8309** | 🔥 UNKNOWN | 2024-11-05 | A vulnerability in the GraphCypherQAChain class of langchain-ai/langchain-commun... |
-| **CVE-2026-118378** | 🔥 HIGH | 2026-10-28 | Tabularis before 0.28.0 contains an SQL injection vulnerability in its SQLite dr... |
-| **CVE-2026-118377** | 🔥 HIGH | 2026-10-28 | mews/pos through 2.0.0 contains an insufficient verification of data authenticit... |
-| **CVE-2026-97019** | 🔥 HIGH | 2026-10-28 | The AMP for WP – Accelerated Mobile Pages plugin for WordPress is vulnerable to ... |
 
 <!-- THREAT_FEED_END -->
 <br>
