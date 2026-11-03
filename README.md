@@ -102,9 +102,6 @@ Elite Cloud-Native Architect, Exploit Developer & Reverse Engineer
 |---|---|---|---|
 | **CVE-2025-1889** | 🔥 UNKNOWN | 2025-03-03 | picklescan before 0.0.22 only considers standard pickle file extensions in the s... |
 | **CVE-2024-8309** | 🔥 UNKNOWN | 2024-11-05 | A vulnerability in the GraphCypherQAChain class of langchain-ai/langchain-commun... |
-| **GHSA-h5wr-6cx4-x5v4** | 🔥 UNKNOWN | 2026-10-29 | ssite-mock-server is a dependency-confusion package with no functional code (its... |
-| **GHSA-x4jx-pc3h-93v6** | 🔥 UNKNOWN | 2026-10-29 | @sxm-content-creators/tools-ds is a dependency-confusion package with no functio... |
-| **GHSA-w4v4-fj9q-cfj5** | 🔥 UNKNOWN | 2026-10-29 | @pcb-dp/qa-commons is a dependency-confusion package with no functional code (it... |
 
 <!-- THREAT_FEED_END -->
 <br>
