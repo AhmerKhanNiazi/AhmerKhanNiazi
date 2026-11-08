@@ -1,33 +1,44 @@
 <!-- ═══════════════════════════════════════════════════════════════════
-     AHMER KHAN NIAZI — ULTRA PROFESSIONAL GITHUB PROFILE
+     AHMER KHAN NIAZI — BLACK + GREEN GLASSMORPHISM PROFILE
      ═══════════════════════════════════════════════════════════════════ -->
 
-<!-- ░░░ ANIMATED HEADER — CAPSULE RENDER ░░░ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=250&section=header&text=Ahmer%20Khan%20Niazi&fontSize=60&fontColor=00FF41&animation=fadeIn&fontAlignY=38&desc=Apex%20Kernel%20Engineer%20%7C%20Cloud-Native%20Architect%20%7C%20Red%20Team%20Operator&descAlignY=60&descAlign=50&descColor=aaffaa" width="100%" />
+<!-- ░░░ GLASSMORPHISM HEADER (custom SVG — black + green) ░░░ -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AhmerKhanNiazi/AhmerKhanNiazi/main/assets/header.svg" width="100%" alt="Ahmer Khan Niazi" />
+</div>
 
-<!-- ░░░ DYNAMIC TYPING SVG ░░░ -->
+<br/>
+
+<!-- ░░░ DYNAMIC TYPING SVG — black bg, green text ░░░ -->
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=2500&pause=800&color=00FF41&background=00000000&center=true&vCenter=true&width=850&lines=%E2%96%88+ROOT+ACCESS+GRANTED+%E2%96%88;Kernel+Hacker+%7C+NTOSKRNL+Internals+%7C+KMDF%2FWDM;Anti-Cheat+Bypass+%7C+EAC+%7C+BattlEye+%7C+Tencent+ACE;PCIe+DMA+Attacks+via+FPGA+Raptor%2FScreamer;eBPF+Stealth+Tracing+%7C+Rootkit+Dev+%7C+Ring-0;Zero-Trust+AWS+%7C+Terraform+%7C+Serverless+%7C+IaC;IDA+Pro+%7C+Ghidra+%7C+AFL%2B%2B+Fuzzer+%7C+Frida+Inject;%E2%96%88+SYSTEM+COMPROMISED+%E2%96%88" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=2500&pause=800&color=00FF41&background=00000000&center=true&vCenter=true&width=850&lines=%E2%96%88+ROOT+ACCESS+GRANTED+%E2%96%88;Kernel+Hacker+%7C+NTOSKRNL+%7C+KMDF%2FWDM+Drivers;Anti-Cheat+Bypass+%7C+EAC+%7C+BattlEye+%7C+Tencent+ACE;PCIe+DMA+Attacks+via+FPGA+Raptor%2FScreamer;eBPF+Stealth+Tracing+%7C+Rootkit+Dev+%7C+Ring-0;Zero-Trust+AWS+%7C+Terraform+%7C+Serverless+IaC;IDA+Pro+%7C+Ghidra+%7C+AFL%2B%2B+%7C+Frida+Inject;%E2%96%88+SYSTEM+COMPROMISED+%E2%96%88" alt="Typing SVG" />
 </p>
 
----
+<!-- ░░░ GLASSMORPHISM DIVIDER ░░░ -->
+<img src="https://raw.githubusercontent.com/AhmerKhanNiazi/AhmerKhanNiazi/main/assets/divider.svg" width="100%" alt="divider"/>
 
 <!-- ░░░ QUICK IDENTITY BADGES ░░░ -->
 <p align="center">
-  <img src="https://img.shields.io/badge/🌍_Location-Karachi%2C_Pakistan-000000?style=for-the-badge&logoColor=00ff41&labelColor=0a0a0a&color=00ff41" />
-  <img src="https://img.shields.io/badge/🎓_University-IQRA_University-000000?style=for-the-badge&logoColor=00ff41&labelColor=0a0a0a&color=00ff41" />
-  <img src="https://img.shields.io/badge/🔥_Status-Open_To_Work-000000?style=for-the-badge&logoColor=00ff41&labelColor=0a0a0a&color=00ff41" />
-  <img src="https://img.shields.io/badge/📡_Comms-Encrypted-000000?style=for-the-badge&logo=protonvpn&logoColor=00ff41&labelColor=0a0a0a&color=00ff41" />
+  <img src="https://img.shields.io/badge/📍_Karachi%2C_Pakistan-000000?style=for-the-badge&logoColor=00ff41&labelColor=000000&color=00ff41" />
+  <img src="https://img.shields.io/badge/🎓_IQRA_University-000000?style=for-the-badge&logoColor=00ff41&labelColor=000000&color=00ff41" />
+  <img src="https://img.shields.io/badge/💼_Open_To_Work-000000?style=for-the-badge&logoColor=00ff41&labelColor=000000&color=00ff41" />
+  <img src="https://img.shields.io/badge/🛡️_Red_Team_Operator-000000?style=for-the-badge&logo=kalilinux&logoColor=00ff41&labelColor=000000&color=00ff41" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/AhmerKhanNiazi"><img src="https://img.shields.io/badge/Security-Red_Team-000000?style=for-the-badge&logo=kalilinux&logoColor=00ff41" /></a>
-  <a href="https://github.com/AhmerKhanNiazi"><img src="https://img.shields.io/badge/Clearance-Top_Secret-000000?style=for-the-badge&logo=torproject&logoColor=00ff41" /></a>
-  <a href="https://github.com/AhmerKhanNiazi"><img src="https://img.shields.io/badge/OSINT-Ghost-000000?style=for-the-badge&logo=hackthebox&logoColor=00ff41" /></a>
-  <a href="https://github.com/AhmerKhanNiazi"><img src="https://img.shields.io/badge/Status-Undetected-000000?style=for-the-badge&logo=proton&logoColor=00ff41" /></a>
+  <a href="https://youtube.com/@theprotechtutorials">
+    <img src="https://img.shields.io/badge/YouTube-@theprotechtutorials-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0D0D0D" />
+  </a>
+  <a href="https://instagram.com/igahmerkhan">
+    <img src="https://img.shields.io/badge/Instagram-@igahmerkhan-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D0D0D" />
+  </a>
+  <a href="https://linkedin.com/in/AhmerKhanNiazi">
+    <img src="https://img.shields.io/badge/LinkedIn-AhmerKhanNiazi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D0D0D" />
+  </a>
 </p>
+
+<!-- ░░░ GLASSMORPHISM DIVIDER ░░░ -->
+<img src="https://raw.githubusercontent.com/AhmerKhanNiazi/AhmerKhanNiazi/main/assets/divider.svg" width="100%" alt="divider"/>
 
 ---
 
@@ -36,7 +47,7 @@
 ┌──[root@ahmer-khan]──[~]
 └─$ ./initialize_kernel.sh --max-privilege
 
-[■■■■■■■■■■■■■■■■■■■■] 100%  — INITIALIZING ...
+[■■■■■■■■■■■■■■■■■■■■] 100%  — KERNEL BOOT SEQUENCE ...
 
   [ ✓ ] Loading NTOSKRNL Exploitation Framework ............ ACTIVE
   [ ✓ ] Mounting PCIe DMA Attack Surface (FPGA Raptor) ..... ARMED
@@ -53,25 +64,8 @@
 
 ---
 
-<!-- ░░░ SOCIAL LINKS — PROFESSIONAL ░░░ -->
-<h2 align="center">📡 — SECURE COMM CHANNELS — 📡</h2>
-
-<p align="center">
-  <a href="https://youtube.com/@theprotechtutorials">
-    <img src="https://img.shields.io/badge/YouTube-@theprotechtutorials-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/igahmerkhan">
-    <img src="https://img.shields.io/badge/Instagram-@igahmerkhan-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/AhmerKhanNiazi">
-    <img src="https://img.shields.io/badge/LinkedIn-AhmerKhanNiazi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
----
-
-<!-- ░░░ ABOUT ME ░░░ -->
-<img align="right" alt="Hacking GIF" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<!-- ░░░ ABOUT ME — with hacking GIF ░░░ -->
+<img align="right" alt="Hacking GIF" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ### `> about_me.exe --verbose`
 
@@ -96,103 +90,80 @@ Status     : [ ACTIVELY RECRUITING / OPEN TO WORK ]
 
 <br clear="right"/>
 
+<!-- ░░░ GLASSMORPHISM DIVIDER ░░░ -->
+<img src="https://raw.githubusercontent.com/AhmerKhanNiazi/AhmerKhanNiazi/main/assets/divider.svg" width="100%" alt="divider"/>
+
 ---
 
-<!-- ░░░ DIVIDER LINE ░░░ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3" width="100%" />
-
-<!-- ░░░ THE ARSENAL TABLE ░░░ -->
+<!-- ░░░ THE ARSENAL ░░░ -->
 <h2 align="center">☠️ — THE ARSENAL — ☠️</h2>
 <p align="center"><i>I don't just write code — I dissect it, exploit it, and forge it into weapons.</i></p>
 
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" valign="top">
+<table align="center" width="100%" style="border-collapse:collapse;border:1px solid #00ff41;">
+  <tr style="background-color:#0a0a0a;">
+    <td width="50%" valign="top" style="border:1px solid #1a1a1a; padding:16px;">
       <h3 align="center">🛡️ Anti-Cheat Bypass Engine</h3>
+      <p align="center">Complete detection vector evasion for <b>EAC, BattlEye, Tencent ACE</b>.<br/>HWBP scanning, Hypervisor (EL2/Ring-1) stealth,<br/>Memory integrity bypass & VAC evasion.</p>
       <p align="center">
-        Complete detection vector evasion for <b>EAC, BattlEye, Tencent ACE</b>.<br/>
-        HWBP scanning, Hypervisor (EL2/Ring-1) stealth,<br/>
-        Memory integrity bypass & VAC evasion.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/EAC-BYPASSED-000?style=flat-square&color=00ff41&labelColor=1a1a1a" />
-        <img src="https://img.shields.io/badge/BattlEye-BYPASSED-000?style=flat-square&color=00ff41&labelColor=1a1a1a" />
-        <img src="https://img.shields.io/badge/Ring--1-ACTIVE-000?style=flat-square&color=00ff41&labelColor=1a1a1a" />
+        <img src="https://img.shields.io/badge/EAC-BYPASSED-000000?style=flat-square&color=00ff41&labelColor=0D0D0D" />
+        <img src="https://img.shields.io/badge/BattlEye-BYPASSED-000000?style=flat-square&color=00ff41&labelColor=0D0D0D" />
+        <img src="https://img.shields.io/badge/Ring--1-ACTIVE-000000?style=flat-square&color=00ff41&labelColor=0D0D0D" />
       </p>
     </td>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" style="border:1px solid #1a1a1a; padding:16px;">
       <h3 align="center">💻 Kernel Engineering</h3>
+      <p align="center">Windows <b>NTOSKRNL</b> internals (EPROCESS/PEB/TEB),<br/>KMDF/WDM driver development, PatchGuard (KPP) evasion,<br/>Android ARM32/ARM64 inline hooking & UEFI/SMM Bootkits.</p>
       <p align="center">
-        Windows <b>NTOSKRNL</b> internals (EPROCESS/PEB/TEB),<br/>
-        KMDF/WDM driver development, PatchGuard (KPP) evasion,<br/>
-        Android ARM32/ARM64 inline hooking & UEFI/SMM Bootkits.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/KPP-EVADED-000?style=flat-square&color=00ff41&labelColor=1a1a1a" />
-        <img src="https://img.shields.io/badge/KMDF-ACTIVE-000?style=flat-square&color=00ff41&labelColor=1a1a1a" />
-        <img src="https://img.shields.io/badge/UEFI-ARMED-000?style=flat-square&color=00ff41&labelColor=1a1a1a" />
+        <img src="https://img.shields.io/badge/KPP-EVADED-000000?style=flat-square&color=00ff41&labelColor=0D0D0D" />
+        <img src="https://img.shields.io/badge/KMDF-ACTIVE-000000?style=flat-square&color=00ff41&labelColor=0D0D0D" />
+        <img src="https://img.shields.io/badge/UEFI-ARMED-000000?style=flat-square&color=00ff41&labelColor=0D0D0D" />
       </p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
+  <tr style="background-color:#060606;">
+    <td width="50%" valign="top" style="border:1px solid #1a1a1a; padding:16px;">
       <h3 align="center">⚡ Hardware DMA & Firmware</h3>
+      <p align="center">Direct Memory Access via <b>FPGA (Raptor/Screamer)</b> reading<br/>physical RAM over PCIe bus undetected.<br/>UEFI/SMM Bootkits for persistent Ring-(-2) implants.</p>
       <p align="center">
-        Direct Memory Access via <b>FPGA (Raptor/Screamer)</b> reading<br/>
-        physical RAM over PCIe bus undetected.<br/>
-        UEFI/SMM Bootkits for persistent Ring-(-2) implants.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/PCIe-ARMED-000?style=flat-square&color=00ff41&labelColor=1a1a1a" />
-        <img src="https://img.shields.io/badge/FPGA-ONLINE-000?style=flat-square&color=00ff41&labelColor=1a1a1a" />
-        <img src="https://img.shields.io/badge/SMM-ACTIVE-000?style=flat-square&color=00ff41&labelColor=1a1a1a" />
+        <img src="https://img.shields.io/badge/PCIe-ARMED-000000?style=flat-square&color=00ff41&labelColor=0D0D0D" />
+        <img src="https://img.shields.io/badge/FPGA-ONLINE-000000?style=flat-square&color=00ff41&labelColor=0D0D0D" />
+        <img src="https://img.shields.io/badge/SMM-ACTIVE-000000?style=flat-square&color=00ff41&labelColor=0D0D0D" />
       </p>
     </td>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" style="border:1px solid #1a1a1a; padding:16px;">
       <h3 align="center">🔍 Reverse Engineering</h3>
+      <p align="center">Expert in <b>IDA Pro, Ghidra</b> (NSA headless scripting),<br/>AFL++ Fuzzing at 10,000+ execs/sec,<br/>Angr/Z3 symbolic execution & neural decompilation.</p>
       <p align="center">
-        Expert in <b>IDA Pro, Ghidra</b> (NSA headless scripting),<br/>
-        AFL++ Fuzzing at 10,000+ execs/sec,<br/>
-        Angr/Z3 symbolic execution & neural decompilation.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/IDA_Pro-MASTER-000?style=flat-square&color=00ff41&labelColor=1a1a1a" />
-        <img src="https://img.shields.io/badge/AFL++-10K%2Fsec-000?style=flat-square&color=00ff41&labelColor=1a1a1a" />
-        <img src="https://img.shields.io/badge/Ghidra-ARMED-000?style=flat-square&color=00ff41&labelColor=1a1a1a" />
+        <img src="https://img.shields.io/badge/IDA_Pro-MASTER-000000?style=flat-square&color=00ff41&labelColor=0D0D0D" />
+        <img src="https://img.shields.io/badge/AFL++-10K%2Fsec-000000?style=flat-square&color=00ff41&labelColor=0D0D0D" />
+        <img src="https://img.shields.io/badge/Ghidra-ARMED-000000?style=flat-square&color=00ff41&labelColor=0D0D0D" />
       </p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
+  <tr style="background-color:#0a0a0a;">
+    <td width="50%" valign="top" style="border:1px solid #1a1a1a; padding:16px;">
       <h3 align="center">🌐 Serverless Cloud Architect</h3>
+      <p align="center">Massive <b>AWS Serverless</b> deployments (API GW, Lambda, Fargate),<br/>Zero-Trust IAM, DynamoDB, Terraform IaC + Dockerized CI/CD.</p>
       <p align="center">
-        Massive <b>AWS Serverless</b> deployments (API GW, Lambda, Fargate),<br/>
-        Zero-Trust IAM policies, DynamoDB & RDS,<br/>
-        Terraform IaC + Dockerized CI/CD Pipelines.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/AWS-DEPLOYED-000?style=flat-square&color=00ff41&labelColor=1a1a1a" />
-        <img src="https://img.shields.io/badge/Terraform-IaC-000?style=flat-square&color=00ff41&labelColor=1a1a1a" />
-        <img src="https://img.shields.io/badge/Docker-RUNNING-000?style=flat-square&color=00ff41&labelColor=1a1a1a" />
+        <img src="https://img.shields.io/badge/AWS-DEPLOYED-000000?style=flat-square&color=00ff41&labelColor=0D0D0D" />
+        <img src="https://img.shields.io/badge/Terraform-IaC-000000?style=flat-square&color=00ff41&labelColor=0D0D0D" />
+        <img src="https://img.shields.io/badge/Docker-RUNNING-000000?style=flat-square&color=00ff41&labelColor=0D0D0D" />
       </p>
     </td>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" style="border:1px solid #1a1a1a; padding:16px;">
       <h3 align="center">👾 Stealth & Dynamic Tracing</h3>
+      <p align="center"><b>Frida</b> dynamic instrumentation (SSL pinning bypass,<br/>native memory patching) & eBPF stealth tracing<br/>(kprobes, uprobes, XDP) without any LKMs.</p>
       <p align="center">
-        <b>Frida</b> dynamic instrumentation (SSL pinning bypass,<br/>
-        native memory patching) & eBPF stealth tracing<br/>
-        (kprobes, uprobes, XDP) without any LKMs.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Frida-INJECTED-000?style=flat-square&color=00ff41&labelColor=1a1a1a" />
-        <img src="https://img.shields.io/badge/eBPF-SILENT-000?style=flat-square&color=00ff41&labelColor=1a1a1a" />
-        <img src="https://img.shields.io/badge/SSL_Pin-BYPASSED-000?style=flat-square&color=00ff41&labelColor=1a1a1a" />
+        <img src="https://img.shields.io/badge/Frida-INJECTED-000000?style=flat-square&color=00ff41&labelColor=0D0D0D" />
+        <img src="https://img.shields.io/badge/eBPF-SILENT-000000?style=flat-square&color=00ff41&labelColor=0D0D0D" />
+        <img src="https://img.shields.io/badge/SSL_Pin-BYPASSED-000000?style=flat-square&color=00ff41&labelColor=0D0D0D" />
       </p>
     </td>
   </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3" width="100%" />
+<!-- ░░░ GLASSMORPHISM DIVIDER ░░░ -->
+<img src="https://raw.githubusercontent.com/AhmerKhanNiazi/AhmerKhanNiazi/main/assets/divider.svg" width="100%" alt="divider"/>
 
 ---
 
@@ -209,11 +180,13 @@ Status     : [ ACTIVELY RECRUITING / OPEN TO WORK ]
 
 <!-- THREAT_FEED_END -->
 
+<!-- ░░░ GLASSMORPHISM DIVIDER ░░░ -->
+<img src="https://raw.githubusercontent.com/AhmerKhanNiazi/AhmerKhanNiazi/main/assets/divider.svg" width="100%" alt="divider"/>
+
 ---
 
-<!-- ░░░ PROJECTS — OPERATIONS GRID ░░░ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3" width="100%" />
-<h2 align="center">⚠️ — CLASSIFIED OPERATIONS DIRECTORY — ⚠️</h2>
+<!-- ░░░ PROJECTS — 2x2 GRID ░░░ -->
+<h2 align="center">⚠️ — CLASSIFIED OPERATIONS — ⚠️</h2>
 
 <table align="center" width="100%">
   <tr>
@@ -233,7 +206,7 @@ Status     : [ ACTIVELY RECRUITING / OPEN TO WORK ]
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/AhmerKhanNiazi/CCP-OS-THEORY">
-        <img src="https://github-readme-stats-fast.vercel.app/api/pin?username=AhmerKhanNiazi&repo=CCP-OS-THEORY&theme=midnight-pur&hide_border=true&bg_color=0D0D0D&title_color=00ff41&icon_color=00ff41&text_color=ffffff" width="100%" />
+        <img src="https://github-readme-stats-fast.vercel.app/api/pin?username=AhmerKhanNiazi&repo=CCP-OS-THEORY&theme=midnight-purple&hide_border=true&bg_color=0D0D0D&title_color=00ff41&icon_color=00ff41&text_color=ffffff" width="100%" />
       </a>
       <p><i>🐧 OS Internals | Memory Management | Thread Sync | Kernel Structures</i></p>
     </td>
@@ -246,11 +219,12 @@ Status     : [ ACTIVELY RECRUITING / OPEN TO WORK ]
   </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3" width="100%" />
+<!-- ░░░ GLASSMORPHISM DIVIDER ░░░ -->
+<img src="https://raw.githubusercontent.com/AhmerKhanNiazi/AhmerKhanNiazi/main/assets/divider.svg" width="100%" alt="divider"/>
 
 ---
 
-<!-- ░░░ TECH STACK — PROFESSIONAL COLLAPSIBLE LAYOUT ░░░ -->
+<!-- ░░░ TECH STACK — COLLAPSIBLE ░░░ -->
 <h2 align="center">⚔️ — TECH STACK & WEAPONS — ⚔️</h2>
 
 <details open>
@@ -271,40 +245,46 @@ Status     : [ ACTIVELY RECRUITING / OPEN TO WORK ]
 </details>
 
 <details open>
-<summary><b>🔬 Exploitation & Reverse Engineering Tools</b></summary>
+<summary><b>🔬 Exploitation & Reverse Engineering</b></summary>
 <br>
 <p align="center">
-  <img src="https://img.shields.io/badge/IDA_Pro-Expert-000000?style=for-the-badge&logo=kalilinux&logoColor=00ff41" />
-  <img src="https://img.shields.io/badge/Ghidra-Expert-000000?style=for-the-badge&logo=java&logoColor=00ff41" />
-  <img src="https://img.shields.io/badge/Frida-Inject-000000?style=for-the-badge&logo=android&logoColor=00ff41" />
-  <img src="https://img.shields.io/badge/AFL++-Fuzzer-000000?style=for-the-badge&logo=linux&logoColor=00ff41" />
-  <img src="https://img.shields.io/badge/Angr_Z3-Symbolic_Exec-000000?style=for-the-badge&logo=python&logoColor=00ff41" />
-  <img src="https://img.shields.io/badge/eBPF-Stealth_Tracer-000000?style=for-the-badge&logo=linux&logoColor=00ff41" />
-  <img src="https://img.shields.io/badge/FPGA-PCILeech-000000?style=for-the-badge&logo=raspberrypi&logoColor=00ff41" />
-  <img src="https://img.shields.io/badge/WinDbg-Kernel_Debug-000000?style=for-the-badge&logo=windows&logoColor=00ff41" />
+  <img src="https://img.shields.io/badge/IDA_Pro-Expert-000000?style=for-the-badge&logo=kalilinux&logoColor=00ff41&labelColor=0D0D0D" />
+  <img src="https://img.shields.io/badge/Ghidra-Expert-000000?style=for-the-badge&logo=java&logoColor=00ff41&labelColor=0D0D0D" />
+  <img src="https://img.shields.io/badge/Frida-Inject-000000?style=for-the-badge&logo=android&logoColor=00ff41&labelColor=0D0D0D" />
+  <img src="https://img.shields.io/badge/AFL++-Fuzzer-000000?style=for-the-badge&logo=linux&logoColor=00ff41&labelColor=0D0D0D" />
+  <img src="https://img.shields.io/badge/Angr_Z3-Symbolic_Exec-000000?style=for-the-badge&logo=python&logoColor=00ff41&labelColor=0D0D0D" />
+  <img src="https://img.shields.io/badge/eBPF-Stealth_Tracer-000000?style=for-the-badge&logo=linux&logoColor=00ff41&labelColor=0D0D0D" />
+  <img src="https://img.shields.io/badge/FPGA-PCILeech-000000?style=for-the-badge&logo=raspberrypi&logoColor=00ff41&labelColor=0D0D0D" />
+  <img src="https://img.shields.io/badge/WinDbg-Kernel_Debug-000000?style=for-the-badge&logo=windows&logoColor=00ff41&labelColor=0D0D0D" />
 </p>
 </details>
 
+<!-- ░░░ GLASSMORPHISM DIVIDER ░░░ -->
+<img src="https://raw.githubusercontent.com/AhmerKhanNiazi/AhmerKhanNiazi/main/assets/divider.svg" width="100%" alt="divider"/>
+
 ---
 
-<!-- ░░░ GITHUB STATS ░░░ -->
+<!-- ░░░ GITHUB STATS — 100% BLACK BACKGROUND ░░░ -->
 <h2 align="center">📊 — SYSTEM ANALYTICS — 📊</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=AhmerKhanNiazi&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D0D0D&title_color=00ff41&icon_color=00ff41&text_color=ffffff&count_private=true&rank_icon=github" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmerKhanNiazi&theme=matrix&hide_border=true&background=0D0D0D&fire=00ff41&ring=00ff41&sideNums=ffffff&sideLabels=aaaaaa&currStreakNum=00ff41&dates=aaaaaa&stroke=00ff41" alt="GitHub Streak" width="49%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=AhmerKhanNiazi&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=000000&title_color=00ff41&icon_color=00ff41&text_color=ffffff&count_private=true&rank_icon=github" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmerKhanNiazi&theme=matrix&hide_border=true&background=000000&fire=00ff41&ring=00ff41&sideNums=ffffff&sideLabels=aaaaaa&currStreakNum=00ff41&dates=aaaaaa&stroke=00ff41" alt="GitHub Streak" width="49%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=AhmerKhanNiazi&layout=donut-vertical&theme=midnight-purple&hide_border=true&bg_color=0D0D0D&title_color=00ff41&text_color=ffffff&langs_count=8" alt="Top Languages Donut" width="32%" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=AhmerKhanNiazi&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D0D0D&title_color=00ff41&text_color=ffffff&langs_count=8&card_width=440" alt="Top Languages Bars" width="62%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=AhmerKhanNiazi&layout=donut-vertical&theme=midnight-purple&hide_border=true&bg_color=000000&title_color=00ff41&text_color=ffffff&langs_count=8" alt="Top Languages Donut" width="32%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=AhmerKhanNiazi&layout=compact&theme=midnight-purple&hide_border=true&bg_color=000000&title_color=00ff41&text_color=ffffff&langs_count=8&card_width=440" alt="Top Languages" width="62%" />
 </div>
+
+<!-- ░░░ GLASSMORPHISM DIVIDER ░░░ -->
+<img src="https://raw.githubusercontent.com/AhmerKhanNiazi/AhmerKhanNiazi/main/assets/divider.svg" width="100%" alt="divider"/>
 
 ---
 
-<!-- ░░░ ISOMETRIC 3D CALENDAR ░░░ -->
+<!-- ░░░ 3D ISOMETRIC CALENDAR ░░░ -->
 <h2 align="center">📅 — CONTRIBUTION MATRIX — 📅</h2>
 
 <div align="center">
@@ -317,7 +297,7 @@ Status     : [ ACTIVELY RECRUITING / OPEN TO WORK ]
 
 ---
 
-<!-- ░░░ MATRIX SNAKE ANIMATION ░░░ -->
+<!-- ░░░ MATRIX SNAKE ░░░ -->
 <h2 align="center">🐍 — CONTRIBUTION GRID SNAKE — 🐍</h2>
 
 <div align="center">
@@ -328,9 +308,12 @@ Status     : [ ACTIVELY RECRUITING / OPEN TO WORK ]
   </picture>
 </div>
 
+<!-- ░░░ GLASSMORPHISM DIVIDER ░░░ -->
+<img src="https://raw.githubusercontent.com/AhmerKhanNiazi/AhmerKhanNiazi/main/assets/divider.svg" width="100%" alt="divider"/>
+
 ---
 
-<!-- ░░░ RANDOM HACKER QUOTE ░░░ -->
+<!-- ░░░ RANDOM QUOTE ░░░ -->
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="80%" />
 </div>
@@ -342,6 +325,7 @@ Status     : [ ACTIVELY RECRUITING / OPEN TO WORK ]
   <img src="https://hits.sh/github.com/AhmerKhanNiazi.svg?style=for-the-badge&label=SYSTEM+INTRUSIONS&color=00ff41&labelColor=000000" alt="Profile Views" />
   <br/><br/>
   <code>[ CONNECTION: ENCRYPTED ]&nbsp;&nbsp;[ IDENTITY: CLASSIFIED ]&nbsp;&nbsp;[ STATUS: GHOST MODE ]</code>
+  <br/><br/>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer" width="100%" />
+<img src="https://raw.githubusercontent.com/AhmerKhanNiazi/AhmerKhanNiazi/main/assets/divider.svg" width="100%" alt="divider"/>

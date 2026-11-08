@@ -1,0 +1,129 @@
+<svg viewBox="0 0 900 280" width="900" height="280" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Glow filter for text -->
+    <filter id="textGlow" x="-20%" y="-50%" width="140%" height="200%">
+      <feGaussianBlur stdDeviation="6" result="blur1"/>
+      <feGaussianBlur stdDeviation="3" result="blur2"/>
+      <feMerge>
+        <feMergeNode in="blur1"/>
+        <feMergeNode in="blur2"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <!-- Soft glow for subtitle -->
+    <filter id="softGlow" x="-10%" y="-50%" width="120%" height="200%">
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <!-- Panel outer glow -->
+    <filter id="panelGlow" x="-5%" y="-5%" width="110%" height="110%">
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+      </feMerge>
+    </filter>
+    <!-- Corner bracket glow -->
+    <filter id="bracketGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <!-- Gradient for border -->
+    <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%"   stop-color="#00ff41" stop-opacity="0.9"/>
+      <stop offset="30%"  stop-color="#00ff41" stop-opacity="0.5"/>
+      <stop offset="70%"  stop-color="#00ff41" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#00ff41" stop-opacity="0.9"/>
+    </linearGradient>
+    <!-- Top glass shine gradient -->
+    <linearGradient id="topShine" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%"   stop-color="#00ff41" stop-opacity="0.08"/>
+      <stop offset="100%" stop-color="#00ff41" stop-opacity="0.0"/>
+    </linearGradient>
+    <!-- Gradient for horizontal scan line center -->
+    <linearGradient id="scanLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#00ff41" stop-opacity="0.0"/>
+      <stop offset="20%"  stop-color="#00ff41" stop-opacity="0.25"/>
+      <stop offset="50%"  stop-color="#00ff41" stop-opacity="0.35"/>
+      <stop offset="80%"  stop-color="#00ff41" stop-opacity="0.25"/>
+      <stop offset="100%" stop-color="#00ff41" stop-opacity="0.0"/>
+    </linearGradient>
+  </defs>
+
+  <!-- ═══ PURE BLACK BACKGROUND ═══ -->
+  <rect width="900" height="280" fill="#000000"/>
+
+  <!-- ═══ BINARY RAIN (top strip — very subtle) ═══ -->
+  <text x="0" y="22" font-family="'Courier New',monospace" font-size="9" fill="#00ff41" fill-opacity="0.07" letter-spacing="2">0 1 1 0 0 1 0 1 1 0 0 1 1 0 1 0 1 0 0 1 1 0 0 1 0 1 1 0 1 0 1 0 0 1 0 1 1 0 0 1 1 0 0 1 0 1 1 0 1 0 1 0 0 1 0 1 1 0 0 1 1 0 1 0 1 0 0 1 0 1 1 0 1 0 1 0 0 1 0 1 1 0</text>
+  <text x="0" y="262" font-family="'Courier New',monospace" font-size="9" fill="#00ff41" fill-opacity="0.07" letter-spacing="2">1 0 0 1 1 0 1 0 0 1 1 0 0 1 0 1 0 1 1 0 0 1 1 0 1 0 0 1 0 1 0 1 1 0 1 0 0 1 1 0 0 1 1 0 1 0 0 1 0 1 0 1 1 0 1 0 0 1 1 0 0 1 0 1 0 1 1 0 1 0 0 1 0 1 0 1 1 0 1 0 0 1</text>
+
+  <!-- ═══ OUTER PANEL GLOW (ambient green haze) ═══ -->
+  <rect x="20" y="30" width="860" height="220" rx="18" fill="#00ff41" fill-opacity="0.06" filter="url(#panelGlow)"/>
+
+  <!-- ═══ GLASS PANEL BASE (dark frosted) ═══ -->
+  <rect x="20" y="30" width="860" height="220" rx="18" fill="#000000" fill-opacity="0.75"/>
+  <!-- Green tint overlay -->
+  <rect x="20" y="30" width="860" height="220" rx="18" fill="#00ff41" fill-opacity="0.025"/>
+  <!-- Border gradient -->
+  <rect x="20" y="30" width="860" height="220" rx="18" fill="none" stroke="url(#borderGrad)" stroke-width="1"/>
+
+  <!-- ═══ GLASS TOP SHINE (reflection strip) ═══ -->
+  <rect x="21" y="31" width="858" height="55" rx="17" fill="url(#topShine)"/>
+
+  <!-- ═══ HORIZONTAL SCAN LINES ═══ -->
+  <line x1="20" y1="140" x2="880" y2="140" stroke="url(#scanLine)" stroke-width="0.8"/>
+  <line x1="20" y1="100" x2="880" y2="100" stroke="#00ff41" stroke-width="0.3" stroke-opacity="0.08"/>
+  <line x1="20" y1="180" x2="880" y2="180" stroke="#00ff41" stroke-width="0.3" stroke-opacity="0.08"/>
+
+  <!-- ═══ CORNER BRACKETS (glassmorphism detail) ═══ -->
+  <!-- Top-Left -->
+  <path d="M20,72 L20,30 L72,30" fill="none" stroke="#00ff41" stroke-width="2.5" stroke-linecap="round" filter="url(#bracketGlow)"/>
+  <!-- Top-Right -->
+  <path d="M880,72 L880,30 L828,30" fill="none" stroke="#00ff41" stroke-width="2.5" stroke-linecap="round" filter="url(#bracketGlow)"/>
+  <!-- Bottom-Left -->
+  <path d="M20,208 L20,250 L72,250" fill="none" stroke="#00ff41" stroke-width="2.5" stroke-linecap="round" filter="url(#bracketGlow)"/>
+  <!-- Bottom-Right -->
+  <path d="M880,208 L880,250 L828,250" fill="none" stroke="#00ff41" stroke-width="2.5" stroke-linecap="round" filter="url(#bracketGlow)"/>
+
+  <!-- ═══ CORNER DOTS ═══ -->
+  <circle cx="20" cy="30" r="3" fill="#00ff41" fill-opacity="0.9" filter="url(#bracketGlow)"/>
+  <circle cx="880" cy="30" r="3" fill="#00ff41" fill-opacity="0.9" filter="url(#bracketGlow)"/>
+  <circle cx="20" cy="250" r="3" fill="#00ff41" fill-opacity="0.9" filter="url(#bracketGlow)"/>
+  <circle cx="880" cy="250" r="3" fill="#00ff41" fill-opacity="0.9" filter="url(#bracketGlow)"/>
+
+  <!-- ═══ STATUS TEXT — panel corners ═══ -->
+  <text x="38" y="52" font-family="'Courier New',monospace" font-size="9.5" fill="#00ff41" fill-opacity="0.55">[ SYSTEM: ONLINE ]</text>
+  <text x="862" y="52" text-anchor="end" font-family="'Courier New',monospace" font-size="9.5" fill="#00ff41" fill-opacity="0.55">[ ACCESS: GRANTED ]</text>
+  <text x="38" y="244" font-family="'Courier New',monospace" font-size="9.5" fill="#00ff41" fill-opacity="0.45">root@ahmer-khan:~$</text>
+  <text x="862" y="244" text-anchor="end" font-family="'Courier New',monospace" font-size="9.5" fill="#00ff41" fill-opacity="0.45">PK · KARACHI · 2026</text>
+
+  <!-- ═══ SIDE DECORATIVE LINES ═══ -->
+  <line x1="20" y1="140" x2="55" y2="140" stroke="#00ff41" stroke-width="1.5" stroke-opacity="0.6"/>
+  <circle cx="58" cy="140" r="2.5" fill="none" stroke="#00ff41" stroke-width="1" stroke-opacity="0.6"/>
+  <line x1="880" y1="140" x2="845" y2="140" stroke="#00ff41" stroke-width="1.5" stroke-opacity="0.6"/>
+  <circle cx="842" cy="140" r="2.5" fill="none" stroke="#00ff41" stroke-width="1" stroke-opacity="0.6"/>
+
+  <!-- ═══ MAIN TITLE — Glowing Green ═══ -->
+  <text x="450" y="148"
+        text-anchor="middle"
+        font-family="'Courier New',Courier,monospace"
+        font-weight="900"
+        font-size="52"
+        fill="#00ff41"
+        filter="url(#textGlow)">Ahmer Khan Niazi</text>
+
+  <!-- ═══ SUBTITLE ═══ -->
+  <text x="450" y="192"
+        text-anchor="middle"
+        font-family="'Courier New',Courier,monospace"
+        font-size="13.5"
+        letter-spacing="1"
+        fill="#00ff41"
+        fill-opacity="0.78"
+        filter="url(#softGlow)">Apex Kernel Engineer  ·  Cloud-Native Architect  ·  Red Team Operator</text>
+</svg>
