@@ -200,10 +200,10 @@ Status     : [ ACTIVELY RECRUITING / OPEN TO WORK ]
 <h2 align="center">🛰️ — LIVE THREAT INTEL FEED — 🛰️</h2>
 
 <!-- THREAT_FEED_START -->
-### 🔴 High/Critical CVEs (Auto-Updated Daily)
+### 🔴 LIVE THREAT INTEL FEED (High/Critical)
 
-| CVE ID | CVSS | Date | Summary |
-|:---|:---:|:---:|:---|
+| CVE ID | CVSS Score | Date | Summary |
+|---|---|---|---|
 | **CVE-2025-1889** | 🔥 UNKNOWN | 2025-03-03 | picklescan before 0.0.22 only considers standard pickle file extensions in the s... |
 | **CVE-2024-8309** | 🔥 UNKNOWN | 2024-11-05 | A vulnerability in the GraphCypherQAChain class of langchain-ai/langchain-commun... |
 
