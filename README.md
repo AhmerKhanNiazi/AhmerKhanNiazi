@@ -73,7 +73,7 @@
 Name       : Ahmer Khan Niazi
 Location   : Karachi, Pakistan
 University : IQRA University
-Major      : Computer Science
+Major      : Cyber Security
 
 Specializations:
   - Kernel Engineering (Ring-0 / Ring-1 / EL2)
