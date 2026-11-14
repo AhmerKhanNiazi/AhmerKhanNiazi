@@ -177,7 +177,6 @@ Status     : [ ACTIVELY RECRUITING / OPEN TO WORK ]
 |---|---|---|---|
 | **CVE-2025-1889** | 🔥 UNKNOWN | 2025-03-03 | picklescan before 0.0.22 only considers standard pickle file extensions in the s... |
 | **CVE-2024-8309** | 🔥 UNKNOWN | 2024-11-05 | A vulnerability in the GraphCypherQAChain class of langchain-ai/langchain-commun... |
-| **GHSA-9j97-6pqr-qvrx** | 🔥 UNKNOWN | 2026-11-11 |  --- _-= Per source details. Do not edit below this line.=-_  ## Source: ghsa-ma... |
 
 <!-- THREAT_FEED_END -->
 
