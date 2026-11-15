@@ -177,6 +177,9 @@ Status     : [ ACTIVELY RECRUITING / OPEN TO WORK ]
 |---|---|---|---|
 | **CVE-2025-1889** | 🔥 UNKNOWN | 2025-03-03 | picklescan before 0.0.22 only considers standard pickle file extensions in the s... |
 | **CVE-2024-8309** | 🔥 UNKNOWN | 2024-11-05 | A vulnerability in the GraphCypherQAChain class of langchain-ai/langchain-commun... |
+| **CVE-2026-129464** | 🔥 HIGH | 2026-11-15 | Zr.Admin.NET commit 0ee1ab8 through commit eb9228a contains a path traversal vul... |
+| **CVE-2026-129359** | 🔥 MODERATE | 2026-11-15 | A security flaw has been discovered in Linux Foundation Magma up to 1.9.0. The a... |
+| **CVE-2026-129455** | 🔥 MODERATE | 2026-11-15 | Zr.Admin.NET commit e6ceaf4 through commit eb9228a contains an insecure direct o... |
 
 <!-- THREAT_FEED_END -->
 
