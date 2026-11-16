@@ -177,9 +177,9 @@ Status     : [ ACTIVELY RECRUITING / OPEN TO WORK ]
 |---|---|---|---|
 | **CVE-2025-1889** | 🔥 UNKNOWN | 2025-03-03 | picklescan before 0.0.22 only considers standard pickle file extensions in the s... |
 | **CVE-2024-8309** | 🔥 UNKNOWN | 2024-11-05 | A vulnerability in the GraphCypherQAChain class of langchain-ai/langchain-commun... |
-| **CVE-2026-129464** | 🔥 HIGH | 2026-11-15 | Zr.Admin.NET commit 0ee1ab8 through commit eb9228a contains a path traversal vul... |
-| **CVE-2026-129359** | 🔥 MODERATE | 2026-11-15 | A security flaw has been discovered in Linux Foundation Magma up to 1.9.0. The a... |
-| **CVE-2026-129455** | 🔥 MODERATE | 2026-11-15 | Zr.Admin.NET commit e6ceaf4 through commit eb9228a contains an insecure direct o... |
+| **CVE-2026-129543** | 🔥 MODERATE | 2026-11-16 | Access of resource using incompatible type ('type confusion') vulnerability in S... |
+| **CVE-2026-129541** | 🔥 MODERATE | 2026-11-16 | EdgeChat 2.5.0 through 2.21.0 contains a cross-site scripting vulnerability that... |
+| **CVE-2026-129542** | 🔥 LOW | 2026-11-16 | Files or directories accessible to external parties vulnerability in Samsung Ope... |
 
 <!-- THREAT_FEED_END -->
 
