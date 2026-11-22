@@ -177,6 +177,9 @@ Status     : [ ACTIVELY RECRUITING / OPEN TO WORK ]
 |---|---|---|---|
 | **CVE-2025-1889** | 🔥 UNKNOWN | 2025-03-03 | picklescan before 0.0.22 only considers standard pickle file extensions in the s... |
 | **CVE-2024-8309** | 🔥 UNKNOWN | 2024-11-05 | A vulnerability in the GraphCypherQAChain class of langchain-ai/langchain-commun... |
+| **DHI-z37r-oc3a-prh4-etf6** | 🔥 UNKNOWN | 2026-11-19 | Previously, a channel registered in the mux's chanList is not usable until it is... |
+| **DHI-wn3k-qdyd-dc4c-uxlc** | 🔥 UNKNOWN | 2026-11-19 | Previously, after a channel has been established, a malicious peer could send cr... |
+| **DHI-i5dv-3oll-cluw-7iib** | 🔥 UNKNOWN | 2026-11-19 | compress provides various compression algorithms. Prior to 1.20.2, the zstd Deco... |
 
 <!-- THREAT_FEED_END -->
 
