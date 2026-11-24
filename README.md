@@ -177,9 +177,9 @@ Status     : [ ACTIVELY RECRUITING / OPEN TO WORK ]
 |---|---|---|---|
 | **CVE-2025-1889** | 🔥 UNKNOWN | 2025-03-03 | picklescan before 0.0.22 only considers standard pickle file extensions in the s... |
 | **CVE-2024-8309** | 🔥 UNKNOWN | 2024-11-05 | A vulnerability in the GraphCypherQAChain class of langchain-ai/langchain-commun... |
-| **DEBIAN-TEMP-0000000-EB8629** | 🔥 UNKNOWN |  | ... |
-| **DEBIAN-TEMP-0000000-D7FDAB** | 🔥 UNKNOWN |  | ... |
-| **DEBIAN-TEMP-0000000-AD8B81** | 🔥 UNKNOWN |  | ... |
+| **GHSA-mmwx-cp2j-wjh2** | 🔥 UNKNOWN | 2026-11-23 | Iterating over malformed or truncated IPv6 extension headers can cause out-of-bo... |
+| **DEBIAN-CVE-2026-54354** | 🔥 UNKNOWN |  | ... |
+| **DEBIAN-CVE-2026-134848** | 🔥 UNKNOWN |  | ... |
 
 <!-- THREAT_FEED_END -->
 
