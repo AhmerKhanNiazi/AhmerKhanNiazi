@@ -177,9 +177,9 @@ Status     : [ ACTIVELY RECRUITING / OPEN TO WORK ]
 |---|---|---|---|
 | **CVE-2025-1889** | 🔥 UNKNOWN | 2025-03-03 | picklescan before 0.0.22 only considers standard pickle file extensions in the s... |
 | **CVE-2024-8309** | 🔥 UNKNOWN | 2024-11-05 | A vulnerability in the GraphCypherQAChain class of langchain-ai/langchain-commun... |
-| **DHI-eeeo-kc5i-uq4r-udox** | 🔥 UNKNOWN | 2026-11-19 | The golang.org/x/crypto/openpgp package is unsafe by design, has numerous known ... |
-| **DHI-zocw-gelt-opul-i22n** | 🔥 UNKNOWN | 2026-11-20 | OpenTelemetry-Go is the Go implementation of OpenTelemetry. Prior to version 0.2... |
-| **DHI-xpcm-ypn2-l4gt-5gfg** | 🔥 UNKNOWN | 2026-11-19 | A vulnerability in the in-band key negotiation exists in the AWS S3 Crypto SDK f... |
+| **DEBIAN-TEMP-0000000-FB872E** | 🔥 UNKNOWN |  | ... |
+| **DEBIAN-TEMP-0000000-F4A3C1** | 🔥 UNKNOWN |  | ... |
+| **DEBIAN-TEMP-0000000-D11434** | 🔥 UNKNOWN |  | ... |
 
 <!-- THREAT_FEED_END -->
 
